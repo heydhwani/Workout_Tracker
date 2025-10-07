@@ -75,3 +75,21 @@ body{
   margin-top: 35px;
 }
 
+.input_box{
+  height:53px;
+  width:360px;
+  border-radius: 1cap;
+  border-color: black;
+  font-size: 21px;
+  margin-left: 75px;
+}
+
+.time-box{
+  height: 40px;
+  width: 40px;
+  background-color: red;
+  
+}
+
+
+
