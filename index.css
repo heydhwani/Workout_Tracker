@@ -1,6 +1,6 @@
 body{
   background-color: blueviolet;
-  display: flex;
+  
   justify-content: center;
   margin-top: 50px;
 }
@@ -31,4 +31,18 @@ body{
 
 .heading{
   font-size: 50px;
+}
+
+.second_div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: rgb(255, 208, 0);
+  border: black;
+  border-radius: 2cap;
+  height: 45px;
+  width: 95%;
+  box-shadow: 10px 10px 0px #000000;
+  margin-top: 35px;
 }
