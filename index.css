@@ -9,7 +9,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px;
+  padding: 21px;
   background-color: rgb(255, 208, 0);
   border: black;
   border-radius: 2cap;
@@ -89,6 +89,23 @@ body{
   width: 40px;
   background-color: red;
   
+}
+
+.timer-input{
+  margin: 0;
+  padding: 0;
+  gap:0;
+}
+
+.timer-format {
+  font-size: 1rem;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  letter-spacing: 2px;
+  background: #f2f2f2;
+  color: #222;
+  padding: 10px 24px;
+  border-radius: 10px;
+  display: inline-block;
 }
 
 
