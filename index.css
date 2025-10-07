@@ -5,23 +5,24 @@ body{
   margin-top: 50px;
 }
 
-.plan{
+.first_div{
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 20px;
-  background-color: orange;
+  background-color: rgb(255, 208, 0);
   border: black;
   border-radius: 2cap;
   height: 120px;
   width: 95%;
+  box-shadow: 10px 10px 0px #000000;
   
 
 }
 
 .buttons button{
   margin-left: 10px;
-  background-color:yellow;
+  background-color:rgb(125, 222, 219);
   height: 60px;
   width: 200px;
   border-radius: 1cap;
